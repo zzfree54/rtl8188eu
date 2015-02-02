@@ -1,3 +1,4 @@
+#zz# test for github @ubuntu12.04 @20150202
 EXTRA_CFLAGS += $(USER_EXTRA_CFLAGS)
 EXTRA_CFLAGS += -O1
 
